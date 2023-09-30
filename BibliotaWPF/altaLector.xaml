@@ -1,0 +1,221 @@
+﻿<Window x:Class="BibliotaWPF.altaLector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   xmlns:local="clr-namespace:BibliotaWPF"
+   mc:Ignorable="d"
+            WindowStyle="None"
+    WindowStartupLocation="CenterScreen"
+    Background="Transparent"
+    AllowsTransparency="True"
+               Title="AltaLector" Height="450" Width="700">
+
+    <Border CornerRadius="10"
+                       BorderThickness="1.5"
+            BorderBrush="#E37264"
+            >
+
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FFFFFF" Offset="0.0"/>
+                <GradientStop Color="#F5F4F2" Offset="0.5"/>
+                <GradientStop Color="#E5DBD1" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border  >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="15"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Biblioteca"
+                           Foreground="#FFF"
+                           FontSize="16"
+                           FontFamily="Montserrat"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"
+                           Margin="25,0,0,0"
+                           />
+                    <Button
+                    x:Name="btnCerrar"
+                    BorderThickness="0"
+                    Content="✕"
+                     Foreground="#7a1d18" 
+                    FontSize="17"
+                    Cursor="Hand"
+                    Grid.Column="2"
+                    Click="btnCerrar_Click" 
+                    >
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="Transparent"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="Transparent"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template >
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="30" Height="30"
+                                    Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+            </Border>
+            <StackPanel Grid.Row="1" Margin="0,0,20,0" Orientation="Horizontal">
+                <Border CornerRadius="0,30,0,10">
+                    <Border.Background>
+                        <ImageBrush ImageSource="/fondoo.png"/>
+                    </Border.Background>
+                    <StackPanel Width="230">
+                        <Label Content="Ingrese los" 
+                            HorizontalAlignment="Left" 
+                            Height="42" Margin="28,40,0,0"
+                            Grid.Row="1" 
+                            Width="150" Padding="20,10,0,0"
+                            FontFamily="Yu Gothic UI Semibold"
+                            FontWeight="Bold" FontSize="20" 
+                            Foreground="White"/>
+                        <Label Content="lectores a cargar." 
+                         Height="42" 
+                               Margin="0,0,0,0"
+                         Width="172" Padding="20,5,0,0"
+                         FontFamily="Yu Gothic UI Semibold"
+                         FontWeight="Bold" FontSize="20" 
+                         Foreground="White"/>
+                    </StackPanel>
+                </Border>
+
+                <Grid Width="449">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="30*"/>
+                    </Grid.RowDefinitions>
+                    <!--TextBox Area-->
+                    <Border  Grid.Row="1"    
+                             Height="55"  
+                             Width="318" 
+                             Margin="58,0,73,72" Grid.RowSpan="2"
+                             CornerRadius="20" BorderBrush="#E37264" BorderThickness="2"
+                             >
+                        <!--NOMBRE DEL LECTOR-->
+                        <TextBox x:Name="txbNombreDelLector" 
+                             Background="Transparent"
+                             BorderBrush="Transparent"
+                             BorderThickness="0"
+                             Padding="22,12,12,12"
+                              Foreground="#7a1d18" 
+                             Height="55" 
+                             Margin="-1,0,1,0" 
+                             Grid.RowSpan="2"
+                             TextWrapping="Wrap" 
+                             Text="Nombre"
+                             Width="318" FontSize="16"
+                                 >
+                        </TextBox>
+                    </Border>
+
+                    <Border  Grid.Row="2"    
+                             Height="55"  
+                             Width="318" 
+                             Margin="58,0,73,72" Grid.RowSpan="2"
+                             CornerRadius="20" BorderBrush="#E37264" BorderThickness="2"
+                             >
+                        <!--APELLIDO DEL LECTOR-->
+                        <TextBox x:Name="txbApellidoLector" 
+                             Background="Transparent"
+                             BorderBrush="Transparent"
+                             BorderThickness="0"
+                             Padding="22,12,12,12"
+                              Foreground="#7a1d18" 
+                             Height="55" 
+                             Margin="-1,-3,-3,-1" 
+                             Grid.RowSpan="2"
+                             TextWrapping="Wrap" 
+                             Text="Apellido"
+                             Width="318" FontSize="16" 
+                                 >
+                        </TextBox>
+                    </Border>
+
+                    <Border  Grid.Row="3"    
+                          Height="55"  
+                          Width="318" 
+                          Margin="58,11,73,10"   
+                          CornerRadius="20" 
+                             BorderBrush="#E37264" 
+                             BorderThickness="2"
+                          >
+                        <!--DNI DEL LECTORL-->
+                        <TextBox x:Name="txbDni" 
+                              Background="Transparent"
+                              BorderBrush="Transparent"
+                              BorderThickness="0"
+                              Padding="22,12,12,12"
+                               Foreground="#7a1d18" 
+                              Height="55" 
+                              Margin="-1,-2,-3,-2" 
+                              Grid.RowSpan="2"
+                              TextWrapping="Wrap" 
+                              Text="DNI"
+                              Width="318" FontSize="16"
+                                  >
+                        </TextBox>
+                    </Border>
+
+                    <Button  Height="52" Width="196" 
+                           Grid.Row="4"
+                       x:Name="btnAgregarLector"
+                       BorderThickness="0"
+                       Foreground="White"
+                      Content="Agregar Lector"
+                        HorizontalAlignment="Left"
+                        HorizontalContentAlignment="Center"
+                        FontFamily="Roboto"
+                        FontSize="16"
+                        Cursor="Hand"
+                        Click="btnAgregarLector_Click" Margin="119,28,0,39"
+>
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#E37264"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#D84C41"></Setter>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template >
+                            <ControlTemplate TargetType="Button">
+                                <Border  Background="{TemplateBinding Background}" CornerRadius="20">
+                                    <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="50,0,0,0"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+            </StackPanel>
+
+
+        </Grid>
+    </Border>
+</Window>
