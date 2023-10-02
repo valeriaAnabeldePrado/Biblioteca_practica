@@ -1,0 +1,20 @@
+﻿BibliotaWPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\
+BibliotaWPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\App.xaml
+6456847591
+
+14124722782
+194726069201
+altaLector.xaml;CargarLibros.xaml;ListarLector.xaml;ListarLibro.xaml;MainWindow.xaml;PedirPrestamo.xaml;
+
+False
+

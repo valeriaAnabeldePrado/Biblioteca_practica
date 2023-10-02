@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="fondoo.png" />
+    <None Remove="Logo Biblio.png" />
+    <None Remove="Logo2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fondoo.png" />
+    <Resource Include="Logo Biblio.png" />
+    <Resource Include="Logo2.png" />
+  </ItemGroup>
+
+</Project>

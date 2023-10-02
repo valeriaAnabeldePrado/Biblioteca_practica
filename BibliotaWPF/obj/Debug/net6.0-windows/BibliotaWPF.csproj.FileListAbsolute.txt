@@ -1,0 +1,82 @@
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.exe
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.deps.json
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.runtimeconfig.json
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.cache
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.lref
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.g.resources
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfoInputs.cache
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfo.cs
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\refint\BibliotaWPF.dll
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.genruntimeconfig.cache
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ref\BibliotaWPF.dll
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.g.cs
+C:\Users\Anabel\source\repos\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.exe
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.deps.json
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.runtimeconfig.json
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.lref
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.g.resources
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfoInputs.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfo.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\refint\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.genruntimeconfig.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ref\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\altaLector.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\altaLector.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ListarLibro.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ListarLibro.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ListarLector.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\ListarLector.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\PedirPrestamo.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\BibliotaWPF\BibliotaWPF\obj\Debug\net6.0-windows\PedirPrestamo.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.exe
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.deps.json
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.runtimeconfig.json
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\bin\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\altaLector.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\ListarLector.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\ListarLibro.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\PedirPrestamo.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF_MarkupCompile.lref
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\altaLector.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\CargarLibros.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\ListarLector.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\ListarLibro.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\PedirPrestamo.baml
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.g.resources
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfoInputs.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.AssemblyInfo.cs
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\refint\BibliotaWPF.dll
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.pdb
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\BibliotaWPF.genruntimeconfig.cache
+C:\Users\Anabel\Desktop\Nueva carpeta\Biblioteca_practica-main\BibliotaWPF\obj\Debug\net6.0-windows\ref\BibliotaWPF.dll
