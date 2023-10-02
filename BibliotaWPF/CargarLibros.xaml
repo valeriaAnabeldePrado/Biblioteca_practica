@@ -127,7 +127,7 @@
                              Grid.RowSpan="2"
                              TextWrapping="Wrap" 
                              Text="Titulo"
-                             Width="318" FontSize="16"
+                             Width="318" FontSize="16" GotFocus="txbNombreLibro_GotFocus"
                                  >
                         </TextBox>
                     </Border>
@@ -150,7 +150,7 @@
                              Grid.RowSpan="2"
                              TextWrapping="Wrap" 
                              Text="Autor"
-                             Width="318" FontSize="16" 
+                             Width="318" FontSize="16" GotFocus="txbAutorLibro_GotFocus" 
                                  >
                         </TextBox>
                     </Border>
@@ -175,7 +175,7 @@
                               Grid.RowSpan="2"
                               TextWrapping="Wrap" 
                               Text="Editorial"
-                              Width="318" FontSize="16"
+                              Width="318" FontSize="16" GotFocus="txbEditorialLibro_GotFocus"
                                   >     
                         </TextBox>
                     </Border>

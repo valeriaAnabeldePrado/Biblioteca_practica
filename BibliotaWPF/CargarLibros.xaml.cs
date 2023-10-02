@@ -49,5 +49,29 @@ namespace BibliotaWPF
                 MessageBox.Show("Ups! Este libro ya existe", "LIBRO", MessageBoxButton.OK, MessageBoxImage.Error);
             }
     }
+
+        private void txbNombreLibro_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (txbNombreLibro.Text == "Titulo")
+            {
+                txbNombreLibro.Text = "";
+            }
+        }
+
+        private void txbAutorLibro_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if(txbAutorLibro.Text == "Autor")
+            {
+                txbAutorLibro.Text = "";
+            }
+        }
+
+        private void txbEditorialLibro_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if(txbEditorialLibro.Text == "Editorial")
+            {
+                txbEditorialLibro.Text = "";
+            }
+        }
     }
 }

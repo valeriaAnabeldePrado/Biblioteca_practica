@@ -48,5 +48,29 @@ namespace BibliotaWPF
         {
             this.Close();
         }
+
+        private void txbNombreDelLector_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if(txbNombreDelLector.Text == "Nombre")
+            {
+                txbNombreDelLector.Text = "";
+            }
+        }
+
+        private void txbApellidoLector_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (txbApellidoLector.Text == "Apellido")
+            {
+                txbApellidoLector.Text = "";
+            }
+        }
+
+        private void txbDni_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (txbDni.Text == "DNI")
+            {
+                txbDni.Text = "";
+            }
+        }
     }
 }
